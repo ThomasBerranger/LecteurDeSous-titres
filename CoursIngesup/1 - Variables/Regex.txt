@@ -1,0 +1,5 @@
+﻿1) Ecrire une fonction qui prend en entrée un string et qui teste si ce string commence ou non par un chiffre.
+2) Ecrire une fonction qui prend en entrée un string et qui, s'il y a des espaces dans ce string, renvoie le même 
+string sans les espaces.
+3) Ecrire une fonction qui prend en entrée un numéro de téléphone et teste s'il est au format français. (+33123456789) 
+4) Ecrire une fonction qui prend en entrée une email et detecte si elle est au bon format. (aaa@aaa.aaa)

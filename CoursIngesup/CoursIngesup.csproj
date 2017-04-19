@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F536EA22-FBA4-47AD-BF19-EA1EB3FE4053}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>CoursIngesup</RootNamespace>
+    <AssemblyName>CoursIngesup</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="1 - Variables\Exo_Date.cs" />
+    <Compile Include="2 - Classes\Exo_expre.cs" />
+    <Compile Include="2 - Classes\Ville.cs" />
+    <Compile Include="3 - Héritage\Avion.cs" />
+    <Compile Include="3 - Héritage\Exo_icomparable.cs" />
+    <Compile Include="3 - Héritage\Patron.cs" />
+    <Compile Include="3 - Héritage\Point.cs" />
+    <Compile Include="3 - Héritage\Polygone.cs" />
+    <Compile Include="3 - Héritage\Polygone1.cs" />
+    <Compile Include="3 - Héritage\Salarié.cs" />
+    <Compile Include="3 - Héritage\Vehicule.cs" />
+    <Compile Include="4 - Fonction\LectureText.cs" />
+    <Compile Include="5 - Event\EventVoiture.cs" />
+    <Compile Include="5 - Event\Voiture.cs" />
+    <Compile Include="Prog.cs" />
+    <Compile Include="1 - Variables\Strings.cs" />
+    <Compile Include="4 - Fonction\Arguments nommés et facultatifs.cs" />
+    <Compile Include="4 - Fonction\Asyncs.cs" />
+    <Compile Include="4 - Fonction\Delegates.cs" />
+    <Compile Include="8 - Stream\DirectoryInfos.cs" />
+    <Compile Include="5 - Event\Events.cs" />
+    <Compile Include="6 - Exeption\Exeptions.cs" />
+    <Compile Include="8 - Stream\StreamReaders.cs" />
+    <Compile Include="8 - Stream\StreamWriters.cs" />
+    <Compile Include="4 - Fonction\Generics.cs" />
+    <Compile Include="7 - Interface\IPerson.cs" />
+    <Compile Include="7 - Interface\Person.cs" />
+    <Compile Include="2 - Classes\MethodeExtension.cs" />
+    <Compile Include="2 - Classes\PartialClass.cs" />
+    <Compile Include="1 - Variables\Collections.cs" />
+    <Compile Include="2 - Classes\Comparable.cs" />
+    <Compile Include="1 - Variables\Date.cs" />
+    <Compile Include="1 - Variables\Enumerateurs.cs" />
+    <Compile Include="2 - Classes\ExpressionInitialisation.cs" />
+    <Compile Include="2 - Classes\Indexeurs.cs" />
+    <Compile Include="1 - Variables\Regex.cs" />
+    <Compile Include="3 - Héritage\TestFils.cs" />
+    <Compile Include="3 - Héritage\TestParent.cs" />
+    <Compile Include="2 - Classes\TestClass.cs" />
+    <Compile Include="1 - Variables\Variables.cs" />
+    <Compile Include="2 - Classes\VariablesAnonymes.cs" />
+    <Compile Include="Projet2\Lecture.cs" />
+    <Compile Include="Projet2\SousTitres.cs" />
+    <Compile Include="Projets\Dame.cs" />
+    <Compile Include="Projets\Jeux.cs" />
+    <Compile Include="Projets\Joueur.cs" />
+    <Compile Include="Projets\Pion.cs" />
+    <Compile Include="Projets\Plateau.cs" />
+    <Compile Include="Projets\Position.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="1 - Variables\Collections.txt" />
+    <Content Include="1 - Variables\Enumerateurs.txt" />
+    <Content Include="1 - Variables\Strings.txt" />
+    <Content Include="2 - Classes\Comparable.txt" />
+    <Content Include="2 - Classes\ExpressionInitialisation.txt" />
+    <Content Include="2 - Classes\MethodeExtension.txt" />
+    <Content Include="4 - Fonction\Async.txt" />
+    <Content Include="5 - Event\events.txt" />
+    <Content Include="8 - Stream\Stream.txt" />
+    <Content Include="2 - Classes\TestClass.txt" />
+    <Content Include="1 - Variables\Date.txt" />
+    <Content Include="1 - Variables\Regex.txt" />
+    <Content Include="1 - Variables\Variables.txt" />
+    <Content Include="3 - Héritage\Héritage.txt" />
+    <Content Include="Projets\Projets1.txt" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

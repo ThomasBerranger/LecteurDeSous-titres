@@ -1,0 +1,14 @@
+﻿1) Ecrire une classe voiture possédant comme paramètres : son nombre de litres d'essence, la distance parcourue et sa consommation d'essence pour 100 km.
+Créer une fonction permettant d'avancer d'un certain nombre de kilomètres. 
+Via les events afficher le nombre de kilomètres parcourus au moment où le réservoir d'essence atteint 0.
+
+
+2) Créer une classe personne ayant comme attribut son âge. Ajouter une fonction Grandir ajoutant une année au paramètre âge.
+Créer 2 fonctions : l'une affichant "La personne est majeure." et l'autre "la personne est mineure."
+Via les events, s'arranger pour que la bonne fonction d'affichage soit appelée lors de l'appel de la fonction vieillir.
+
+
+3) Soit une classe personnage de Rpg ayant 5 pièces d'équipement représentées par 5 string.
+Créer 5 getter et setter pour les 5 paramètres. Créer une fonction combattre affichant le texte "Fight".
+Via les events, afficher les noms des pièces d'équipement à chaque combat.
+Attention, s'il n'y a pas de pièces d'équipement dans un des paramètres, aucun event ne doit être appelé pour ce paramètre.

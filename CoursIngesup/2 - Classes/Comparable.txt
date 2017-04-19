@@ -1,0 +1,4 @@
+﻿1) Créer une classe Personne avec les paramètres suivants : 
+	- un nom
+	- un age
+Via Icomparable créer la fonction CompareTo afin de pouvoir comparer via l'âge deux personnes différentes.

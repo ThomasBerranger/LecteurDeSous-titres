@@ -1,0 +1,15 @@
+﻿1) Créer un tableau de 10 cases rempli de 0.
+
+2) Créer un tableau de 10 cases rempli par les valeurs des indices des cases.
+
+3) Créer un tableau rempli de nombres aléatoires et ensuite faire un tri à bulles sur ce tableau.
+
+4) Créer une liste remplie de nombres aléatoires et ensuite la trier par ordre croissant.
+
+5) Créer une liste remplie de nombres aléatoires et ensuite la trier de telle sorte que 
+les chiffres pairs soient avant les chiffres impairs.
+
+6) Créer une Hashtable contenant en clef des noms de villes et en valeur leur nombre d'habitants.
+	- Réaliser une recherche des villes à plus de 100 000 habitants.
+
+7) Créer une variable de type string composée de 5 characters aléatoires.

@@ -1,0 +1,12 @@
+﻿1) Créer une classe HeroRpg avec les paramètres suivants : un nom, un métier (choisie parmi une liste réduite), 
+des points de vie, une force, une endurance, une taille, etc.
+   - Créer un constructeur prenant en paramètres un nom et une classe. 
+     Selon le métier choisi, initialiser les autres paramètres de la classe.
+   - Créer une fonction de HeroRpg "Damage" diminiant les points de vie du HeroRpg et affichant "Dead" si les points de vie
+     sont inférieurs ou égaux à zéro.
+   - Créer une fonction de HeroRpg "Who's the Best" prenant en paramètre un HeroRpg et retournant le plus fort des deux.
+
+2) Écrire une classe personne qui comporte trois champs privés : nom, prénom et âge.
+	- Lui ajouter un constructeur permettant d'initialiser les données et une fonction affichant les données de chaque personne.
+	- Définir également une méthode permettant de connaître le nombre de personnes créées depuis le lancement du programme.
+

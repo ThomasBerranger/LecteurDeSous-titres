@@ -1,0 +1,10 @@
+﻿1) Ecrire une fonction qui demande en paramètre un entier x et qui demande x fois à l'utilisateur de rentrer une ligne.
+Ecrire chacune des lignes rentrées dans un fichier texte situé sur le bureau.
+
+2) Ecrire une fonction prenant en paramètre un caractère et retournant le nombre d'occurences de ce caractère dans un fichier texte.
+Vous utiliserez le fichier créé dans le 1).
+
+3) Créer un dossier vide, créer 10 fichiers aux noms et aux contenus aléatoires. 
+Pour chaque fichier au format txt et dont le nom commence par 'a'.
+Effacer tout le contenu du fichier.
+

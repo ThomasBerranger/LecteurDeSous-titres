@@ -1,0 +1,6 @@
+﻿1) Créer une fonction retournant la date d'aujourd'hui.
+2) Créer une fonction renvoyant la date de demain.
+3) Créer une fonction additionnant deux dates.
+4) Créer une fonction renvoyant les noms des 3 prochains jours.
+5) Créer une fonction prennant en entrée une chaine de caractères et la renvoyant sous la forme
+d'une date au format français. (jj/mm/AAAA)

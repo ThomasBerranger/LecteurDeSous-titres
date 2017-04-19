@@ -1,0 +1,6 @@
+﻿4) Ecrire deux textes (exemple : le récit de vos dernières vacances, Lorem ipsum, etc...) dans deux fichiers textes et afficher le temps d'éxécution du processus.
+Refaire la même écriture via des appels asynchrones et comparer les temps d'éxécutions.
+
+5) Via les appels asynchrones récupérer le contenu d'une page web et afficher en console un timer nous alertant, 
+chaque seconde, du temps pris par l'appel.
+(Optionnel : Utiliser l'interface "IProgress" afin de connaitre la quantité de données récupérée)

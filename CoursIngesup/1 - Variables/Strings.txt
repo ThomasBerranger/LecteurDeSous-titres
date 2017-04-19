@@ -1,0 +1,20 @@
+﻿1) Ecrire une fonction demandant une chaîne de caractères à l'utilisateur et affichant le nombre
+d'occurences de la lettre 'a'.
+
+2) Ecrire une fonction demandant une chaîne de caractères à l'utilisateur et renvoyant 
+cette même chaîne sans le caractère '.' .
+
+3) Ecrire une fonction demandant une chaîne de caractères et comptant le nombre de voyelles et de consonnes.
+
+4) Ecrire une fonction demandant une chaîne de caractères et détecter si oui ou non cette chaîne
+est composée d'au moins deux phrases. Si elle est composée d'au moins deux phrases, demander 
+une nouvelle chaîne à l'utilisateur et renvoyer la fusion de ces 2 chaines.
+Exemple : string s1 = "Je suis une phrase. Je suis une autre phrase."
+		  string s2 = "Moi aussi je suis une phrase."
+		  string result = "Je suis une phrase. Moi aussi je suis une phrase. Je suis une autre phrase.";
+
+5) Ecrire une fonction retournant le nombre de mots une chaîne de caractères donnée.
+Cette fonction doit aussi réaliser quelques changements sur la chaîne de caratères :
+	- Rajouter une majuscule à la première lettre de la chaîne.
+	- Rajouter un point à la fin de la chaîne.
+	- Rajouter des espaces avant les virgules.

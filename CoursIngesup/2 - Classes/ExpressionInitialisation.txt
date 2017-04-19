@@ -1,0 +1,11 @@
+﻿1) Créer une classe Ville contenant un nom, un nombre d'habitants et une superficie.
+Ajouter un constructeur initialisant les champs nombre d'habitants et superficie aléatoirement.
+
+2) Créer une fonction générant une liste de 100 villes aléatoires. Via les expressions d'initialisation retourner les noms  
+des villes ayant plus de 100 000 habitants mais ayant une superficie inférieure à 100 km².
+
+3) Créer une classe mégalopole dérivant de la classe ville contenant le nombre d'aéroports et le nombre de ports.
+
+4) Créer une fonction générant une liste de 100 Mégalopoles aléatoires. Via les expressions d'initialisation retourner les noms  
+des villes ayant plus de 100 000 habitants mais ayant une superficie inférieur à 100 km² avec un seul aéroport.
+

@@ -1,0 +1,5 @@
+﻿1) Créer un Enumarateur "Carte" contenant toutes les valeurs possible d'une carte
+contenue dans un jeu de cartes classique.
+2) Créer un Enumerateur "Couleur" représentant les quatre couleurs disponibles dans un jeu de cartes.
+3) Via l'Enum "Carte" et "Couleur", créer une collection de 5 cartes représentant une main de Poker.
+4) Calculer une valeur représentative de la main de poker créée ci-dessus.

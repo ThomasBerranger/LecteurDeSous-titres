@@ -1,0 +1,18 @@
+﻿1) Créer une classe Salarié ayant comme paramètres : un salaire horaire et un nombre d'heures travaillées.
+	- Lui ajouter une fonction calculant son salaire.
+	- Créer une seconde classe Patron ayant les mêmes caractéristiques que le salarié plus un bonus mensuel.
+	- Lui ajouter une fonction calculant son salaire.
+
+2) - Créer une classe Point ayant 2 paramètres entiers x et y.
+   - Créer une classe abstraite Polygone ayant comme paramètres une liste de points et un constructeur initialisant cette liste.
+   - Créer 3 classes héritant de la classe abstraite Polygone possédant chancunes un construteur Initialisant 
+     et stockant plusieurs points dans la liste de points.
+   - Créer une fonction virtual dans la classe Polygone qui retourne le nombre de points du Polygone.
+   - Override cette fonction dans les classes héritant de Polygone afin de d'afficher un message 
+     et de retourner le nombre de points.
+
+3) Écrire une classe Vehicule contenant le nombre de passagers dans laquelle vous définirez un constructeur initialisant le nombre de  
+passagers du véhicule, et une méthode ToString retournant une chaîne de caractères indiquant le nombre de passagers d’un véhicule. 
+	- Écrire une classe Avion étendant la classe Véhicule contenant le nombre de moteurs et le nombre de passagers.
+	- Ecrire deux constructeurs pour la classe avion, un initialisant le nombre de moteurs 
+	  et l'autre le nombre de moteurs et le nombre de passagers.

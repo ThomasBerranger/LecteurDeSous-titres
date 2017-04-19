@@ -1,0 +1,18 @@
+c:\users\nimpo\onedrive\documents\visual studio 2015\Projects\CoursIngesup\CoursIngesup\bin\Debug\CoursIngesup.exe.config
+c:\users\nimpo\onedrive\documents\visual studio 2015\Projects\CoursIngesup\CoursIngesup\bin\Debug\CoursIngesup.exe
+c:\users\nimpo\onedrive\documents\visual studio 2015\Projects\CoursIngesup\CoursIngesup\bin\Debug\CoursIngesup.pdb
+c:\users\nimpo\onedrive\documents\visual studio 2015\Projects\CoursIngesup\CoursIngesup\obj\Debug\CoursIngesup.csprojResolveAssemblyReference.cache
+c:\users\nimpo\onedrive\documents\visual studio 2015\Projects\CoursIngesup\CoursIngesup\obj\Debug\CoursIngesup.exe
+c:\users\nimpo\onedrive\documents\visual studio 2015\Projects\CoursIngesup\CoursIngesup\obj\Debug\CoursIngesup.pdb
+C:\Users\Thomas\Documents\Net\CoursIngesup\CoursIngesup\bin\Debug\CoursIngesup.exe.config
+C:\Users\Thomas\Documents\Net\CoursIngesup\CoursIngesup\bin\Debug\CoursIngesup.exe
+C:\Users\Thomas\Documents\Net\CoursIngesup\CoursIngesup\bin\Debug\CoursIngesup.pdb
+C:\Users\Thomas\Documents\Net\CoursIngesup\CoursIngesup\obj\Debug\CoursIngesup.csprojResolveAssemblyReference.cache
+C:\Users\Thomas\Documents\Net\CoursIngesup\CoursIngesup\obj\Debug\CoursIngesup.exe
+C:\Users\Thomas\Documents\Net\CoursIngesup\CoursIngesup\obj\Debug\CoursIngesup.pdb
+C:\Users\tberr\OneDrive\Documents\OneDrive\Documents\Ecole\Net\Sous-titres_Thomas_Berrangerv4\CoursIngesup\bin\Debug\CoursIngesup.exe.config
+C:\Users\tberr\OneDrive\Documents\OneDrive\Documents\Ecole\Net\Sous-titres_Thomas_Berrangerv4\CoursIngesup\obj\Debug\CoursIngesup.exe
+C:\Users\tberr\OneDrive\Documents\OneDrive\Documents\Ecole\Net\Sous-titres_Thomas_Berrangerv4\CoursIngesup\obj\Debug\CoursIngesup.pdb
+C:\Users\tberr\OneDrive\Documents\OneDrive\Documents\Ecole\Net\Sous-titres_Thomas_Berrangerv4\CoursIngesup\bin\Debug\CoursIngesup.exe
+C:\Users\tberr\OneDrive\Documents\OneDrive\Documents\Ecole\Net\Sous-titres_Thomas_Berrangerv4\CoursIngesup\bin\Debug\CoursIngesup.pdb
+C:\Users\tberr\OneDrive\Documents\OneDrive\Documents\Ecole\Net\Sous-titres_Thomas_Berrangerv4\CoursIngesup\obj\Debug\CoursIngesup.csprojResolveAssemblyReference.cache
